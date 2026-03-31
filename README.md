@@ -21,7 +21,7 @@
 I build **production-grade systems** — not just demos. I care about correctness, performance, and shipping things that actually work under load.
 
 - 🏗️ Currently building features end-to-end at **Mentaive (EdTech)** — React.js, TypeScript, Python/Django  
-- 🎓 Graduating **B.Tech CS at VIT** in 2026 — available immediately, 8+ hrs/day remote  
+- 🎓 Graduating **B.Tech CS at VIT** in 2026 — available immediately.  
 - 🔍 Open to **full-stack / backend roles** where I can own things end-to-end  
 
 ---
