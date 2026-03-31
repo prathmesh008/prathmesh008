@@ -61,10 +61,10 @@ I build **production-grade systems** — not just demos. I care about correctnes
 
 ### 📊 GitHub Stats
 
-<p align="center">
+[<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=prathmesh008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh008&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=prathmesh008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 ---
 
