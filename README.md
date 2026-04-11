@@ -31,7 +31,7 @@
 > I care about correctness, performance, and shipping things that actually work under load.
 
 - 🏗️ Currently building end-to-end at **Mentaive (EdTech)** — React.js, TypeScript, Python/Django
-- 🎓 Graduating **B.Tech CS @ VIT** in 2026 — available immediately, 8+ hrs/day remote
+- 🎓 Graduating **B.Tech CS @ VIT** in 2026 — available immediately.
 - 🔍 Open to **full-stack / backend roles** where I can own things end-to-end
 - ⚡ Fun fact: My task queue handles **3,350 jobs/sec** with zero drops
 
